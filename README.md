@@ -6,7 +6,7 @@ Personal notes and practice code from the **Complete Python for AI** course
 - Course handbook: https://python.datalumina.com
 - YouTube video: https://youtu.be/ygXn5nV5qFc
 
-This repo is my own working-through of the course — every folder is a module,
+This repo is my own working through of the course,every folder is a module,
 and every module has runnable `.py` files with example code plus short notes
 on what I learned. I'm keeping this as a permanent reference and as proof of
 practical Python fundamentals for my AI/ML learning path.
