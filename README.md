@@ -1,47 +1,58 @@
-# Python for AI — Course Notes & Code
+# Python for AI — Learning Journey
 
-Personal notes and practice code from the **Complete Python for AI** course
-(free beginner course by Datalumina).
+This repository documents my personal learning journey in **Python for Artificial Intelligence (AI)**.
 
-- Course handbook: https://python.datalumina.com
-- YouTube video: https://youtu.be/ygXn5nV5qFc
+I am learning Python fundamentals and gradually building the skills required for AI, Machine Learning, and Data Science. This repository contains my notes, practice code, experiments, and implementations as I progress through different Python concepts.
 
-This repo is my own working through of the course,every folder is a module,
-and every module has runnable `.py` files with example code plus short notes
-on what I learned. I'm keeping this as a permanent reference and as proof of
-practical Python fundamentals for my AI/ML learning path.
+The goal of this repository is to document what I learn, track my progress, and build a permanent reference that I can revisit throughout my AI/ML journey.
 
-## How this is organized
+## About This Repository
 
-| Folder | Topic |
-|---|---|
-| `01_getting_started` | Environment setup, virtual environments, pip, interactive Python |
-| `02_basics` | Syntax, variables, comments, errors |
-| `03_data_types` | Numbers, strings, booleans, operators |
-| `04_control_flow` | If statements, loops |
-| `05_data_structures` | Lists, dictionaries, tuples, sets |
-| `06_functions` | Defining functions, parameters, return values |
-| `07_libraries_apis` | Importing packages, calling APIs, working with data |
-| `08_practical_python` | Project structure, working with files, organizing code |
-| `09_error_handling` | try/except, common errors |
-| `10_classes` | Classes, attributes, methods, inheritance |
-| `11_tools` | Git & GitHub, environment variables/.env, Ruff, uv |
+I am currently learning through the **Complete Python for AI** course by Datalumina and other learning resources.
 
-## Running the code
+* Course handbook: https://python.datalumina.com
+* YouTube course: https://youtu.be/ygXn5nV5qFc
 
-Each `.py` file is standalone and runnable on its own:
+This repository represents my own learning and practice. The code and notes here reflect my understanding and implementation of the concepts I learn.
+
+## What You'll Find Here
+
+* Python fundamentals and concepts
+* Practice programs and exercises
+* Runnable `.py` files
+* Notes and code experiments
+* Debugging and error-handling practice
+* Libraries and tools used in Python development
+* Concepts relevant to AI, Machine Learning, and Data Science
+
+## Running the Code
+
+Most Python files in this repository are standalone and can be run individually.
 
 ```bash
-python 03_data_types/strings.py
+python3 filename.py
 ```
 
-Some files in `07_libraries_apis` need packages from `07_libraries_apis/requirements.txt`:
+Some modules may require additional Python packages. Install them using:
 
 ```bash
-pip install -r 07_libraries_apis/requirements.txt
+pip install -r requirements.txt
 ```
+
+## My Goal
+
+My goal is not just to complete a Python course, but to build strong Python fundamentals that will help me move into:
+
+* Data Analysis
+* Machine Learning
+* Deep Learning
+* Artificial Intelligence
+* AI Engineering
+
+I will continue updating this repository as I learn new concepts, complete projects, and improve my Python skills.
 
 ## Status
 
-Working through the course module by module. See each folder's notes for
-what's covered and what I still want to practice more.
+🚀 Currently learning and documenting my Python for AI journey.
+
+This repository will continue to grow as I progress.
