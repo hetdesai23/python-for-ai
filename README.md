@@ -8,12 +8,13 @@ The goal of this repository is to document what I learn, track my progress, and 
 
 ## About This Repository
 
-I am currently learning through the **Complete Python for AI** course by Datalumina and other learning resources.
+I am learning Python for AI through different learning resources, including the **Complete Python for AI course by Datalumina** and Python, Data Science, and Machine Learning videos from **CampusX**.
 
-* Course handbook: https://python.datalumina.com
-* YouTube course: https://youtu.be/ygXn5nV5qFc
+* Datalumina Course Handbook: https://python.datalumina.com
+* Datalumina YouTube Course: https://youtu.be/ygXn5nV5qFc
+* CampusX YouTube: https://www.youtube.com/@campusx-official
 
-This repository represents my own learning and practice. The code and notes here reflect my understanding and implementation of the concepts I learn.
+This repository represents my own learning and practice. The code and notes here reflect my understanding and implementation of the concepts I learn from these resources and through my own practice. CampusX also provides Python and Machine Learning learning content relevant to this journey.
 
 ## What You'll Find Here
 
@@ -41,7 +42,7 @@ pip install -r requirements.txt
 
 ## My Goal
 
-My goal is not just to complete a Python course, but to build strong Python fundamentals that will help me move into:
+My goal is not just to complete courses or watch tutorials, but to build strong Python fundamentals that will help me move into:
 
 * Data Analysis
 * Machine Learning
