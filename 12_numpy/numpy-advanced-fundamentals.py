@@ -206,32 +206,17 @@ plt.show()
 
 # y = sin(x)
 
-x = np.linspace(-10, 10, 100)
+x=np.linspace(-10,10,100)
+y=np.sin(x)
+plt.plot(x,y)
 
-y = np.sin(x)
+#y=xlog(x)
+x=np.linspace(1,10,100)
+y=x*np.log(x)
+plt.plot(x,y)
 
-plt.plot(x, y)
-plt.title("y = sin(x)")
-plt.show()
+#sigmoid
+x=np.linspace(-10,10,100)
+y=1/(1+np.exp(-x))
+plt.plot(x,y)
 
-
-# y = x log(x)
-
-x = np.linspace(1, 10, 100)
-
-y = x * np.log(x)
-
-plt.plot(x, y)
-plt.title("y = x log(x)")
-plt.show()
-
-
-# SIGMOID GRAPH
-
-x = np.linspace(-10, 10, 100)
-
-y = 1 / (1 + np.exp(-x))
-
-plt.plot(x, y)
-plt.title("Sigmoid Function")
-plt.show()
